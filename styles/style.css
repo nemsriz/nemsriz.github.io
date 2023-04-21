@@ -1,0 +1,14 @@
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+li,
+h1 {
+    color: green;
+}
+
+/* https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics#les_diff%C3%A9rents_types_de_s%C3%A9lecteurs */
+
+.class-css { color: aquamarine;}
